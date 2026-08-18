@@ -1,4 +1,4 @@
-# Wellfound Auto-Apply
+# Jobs automation Auto-Apply
 
 Automatically applies to matching jobs on [Wellfound](https://wellfound.com) (ex-AngelList Talent).
 A Playwright runner opens Chrome with your saved Wellfound session, injects the apply
@@ -140,7 +140,7 @@ Unregister-ScheduledTask WellfoundAutoApply  # remove
 
 ## Disclaimer
 
-Auto-applying may violate Wellfound's Terms of Service and can get an
+Auto-applying may violate Terms of Service and can get an
 account rate-limited or banned. The delays are deliberately human-like and everything
 runs on your own machine with your own account — use at your own risk, and review
 the dry run before going live.
